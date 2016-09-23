@@ -1,1 +1,2 @@
-# Stories-In-Kitchen
+# Stories-In-Kitchen(Food Recipe Sharing App)
+This project is to build an online food recipe sharing application. The system is basically a web application, which allows users to create and submit their food recipe; also allow users to see the recipes shared by other people. The application also allows users to like/vote recipe and save/share their favorite recipe. Commenting functionality would be an advanced feature to promote feedback between users.
